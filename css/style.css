@@ -9,6 +9,7 @@ h1{
 
 p{
 	font-family: 'Arimo', sans-serif;
+	color:#05305F;
 }
 
 .panel{
@@ -18,6 +19,10 @@ p{
 img{
 	width: 4.0em;
 	height: 4.0em;
+}
+
+.jumbotron{
+	background-color:#EFC40B;
 }
 
 #pavpic{
